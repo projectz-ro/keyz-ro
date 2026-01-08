@@ -7,7 +7,7 @@ mouseless ridiculousness.
 ## Usage
 
 To make this easy to get too, I bind mine to `$mod + ESC` in my
-hyprland.conf.
+
 
 1. Scroll down to the binding you forgot.
 2. Remember.
@@ -39,11 +39,11 @@ it won't even necessarily stay consistent per program.
 That said, just remember to update your config after you add a
 new binding. Not too hard.
 
-I also add a windowrule in my hyprland.conf to make it
+I also add a window rule in my config to make it
 transparent. Maybe in the future I'll add color config, but this
 isn't really a tool you'll keep open for long.
 
 > Note:
-> I'm using arch with hyprland, but there should be no reason this
+> I'm using arch with sway, but there should be no reason this
 > doesn't work on most other Linux distros and WM's. If it doesn't,
 > let me know.
